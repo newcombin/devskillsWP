@@ -3,7 +3,7 @@
 
 En este desafío, creará un plugin para WordPress que añada el shortcode [todolist], el cuál muestra una lista de tareas.
 
-![](RackMultipart20220610-1-bs5qvi_html_2d4b329a050de012.png)
+![alt text](https://github.com/newcombin/devskillsWP/blob/main/template.png "Diseño web")
 
 \* El diseño es sólo ilustrativo, puedes personalizarlo a gusto.
 
